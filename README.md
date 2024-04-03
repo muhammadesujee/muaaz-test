@@ -6,3 +6,5 @@
 - something
 - something else
 - last thing
+
+## Sujee had his mind blown by the power and simplicity of GIT
